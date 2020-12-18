@@ -1,1 +1,1 @@
-This is a simple project to do the Google Homepage from scracth
+This is a simple project to build the Google Homepage from scratch
